@@ -1,5 +1,5 @@
 # `$ WHOAMI`
-Data Science and Engineering enthusiast who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+AI Systems Engineering enthusiast who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
 
 ## Competencies and Technologies
 
