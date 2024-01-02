@@ -1,6 +1,8 @@
 # `$ WHOAMI`
 
-Analyst and Systems Engineer who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+I am a certified data scientist and software engineer who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+
+In addition, I am an undergraduate student at the Open University of Kenya, majoring in Cyber Security and Digital Forensics.
 
 ## Competencies and Technologies
 
