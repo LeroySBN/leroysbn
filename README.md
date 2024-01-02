@@ -42,4 +42,4 @@ Data Science: Supervised Learning (Regression analysis), Discriminative models (
 Frameworks & Other Tools: Linux/Unix, Git, Django, Flask, Docker, HAProxy, Nginx, Puppet, Datadog, Gunicorn, Node.js, React, jQuery, TypeScript, Sass.
 ```
 
-***Want to chat? [Set up a meeting!](https://calendly.com/leroybuliro)***
+***Want to chat? [Set up a meeting!](https://zcal.co/leroybuliro)***
