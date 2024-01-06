@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-I am a certified data scientist, financial analyst, and software engineer who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+I am an analyst who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
 
 ## Competencies and Technologies
 
