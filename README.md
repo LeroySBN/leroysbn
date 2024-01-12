@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-I am an analyst who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+I'm an analyst and systems developer who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
 
 ## Competencies and Technologies
 
