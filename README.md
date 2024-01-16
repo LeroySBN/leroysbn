@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-I'm an analyst and systems developer who works at the intersection of technology and finance with academic and industry experience in statistics, risk, backend infrastructure, and digital products.
+Skilled professional certified in data science, financial analysis, and software engineering, with a specialisation in statistical data analysis and systems engineering.
 
 ## Competencies and Technologies
 
