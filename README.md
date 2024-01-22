@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-Skilled professional certified in data science, financial analysis, and software engineering, with a specialisation in statistical data analysis and systems engineering with an emphasis in **Python Backend Development**.
+Skilled professional specialising in statistical data analysis and systems engineering with an emphasis in **Python Backend Development**.
 
 ## Competencies and Technologies
 
