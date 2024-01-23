@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-Skilled professional specialising in **Data and Systems Engineering**. 
+Skilled professional specialising in **Data Systems Engineering**. 
 
 ## Competencies and Technologies
 
