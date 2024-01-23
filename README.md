@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-Skilled professional specialising in statistical data analysis and systems engineering with an emphasis in **Python Backend Development**.
+Skilled professional specialising in **Data and Systems Engineering**. 
 
 ## Competencies and Technologies
 
