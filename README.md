@@ -1,6 +1,8 @@
 # `$ WHOAMI`
 
-Analyst and Software Developer. 
+- Data science professional and web app developer. 
+- Former actuarial practitioner turned tech enthusiast. 
+- Avid Linux user. 
 
 ## Competencies and Technologies
 
