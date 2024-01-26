@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-- Data science professional and web app developer. 
+- Data science professional and web app developer with a focus on **Python**. 
 - Rogue actuary turned technophile. 
 - Avid Linux user. 
 
