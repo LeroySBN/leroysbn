@@ -1,7 +1,7 @@
 # `$ WHOAMI`
 
 - Data science professional and web app developer. 
-- Rogue actuary turned tech enthusiast. 
+- Rogue actuary turned technophile. 
 - Avid Linux user. 
 
 ## Competencies and Technologies
