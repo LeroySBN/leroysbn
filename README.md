@@ -1,6 +1,6 @@
 # `$ WHOAMI`
 
-- Data science professional and Software developer with a focus on Python. 
+- Data cruncher and systems engineer specialising in backend development. 
 - Rogue actuary turned technophile. 
 - Avid Linux user. 
 
