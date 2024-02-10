@@ -1,8 +1,9 @@
 # `$ WHOAMI`
 
-- Data cruncher and systems engineer specialising in backend development. 
-- Rogue actuary turned technophile. 
-- Avid Linux user. 
+- Data cruncher and software engineer specialising in backend development
+- Rogue actuary turned technophile
+- Avid Linux user
+- I'm currently learning **Java Android development**
 
 ## Competencies and Technologies
 
