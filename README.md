@@ -1,8 +1,8 @@
 # `$ WHOAMI`
-- A data cruncher and full-stack developer from Kenya
+- Full-stack developer and data cruncher from Kenya
 - Rogue actuary turned technophile
 - Avid Linux user
-- I'm currently learning **Java Android development**
+- Currently learning **Java Android development**
 
 ## Languages and Tools:
 <p align="left">
