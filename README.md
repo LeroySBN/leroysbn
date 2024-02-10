@@ -3,7 +3,7 @@
 Hi 👋 I'm Leroy Buliro
 ======================
 
-- A data cruncher and software engineer specialising in backend development
+- A data cruncher and full-stack developer from Kenya
 - Rogue actuary turned technophile
 - Avid Linux user
 - I'm currently learning **Java Android development**
@@ -117,13 +117,3 @@ Hi 👋 I'm Leroy Buliro
     <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
     <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a> -->
 </p>
-
-```
-Programming Languages: R, C, Python, JavaScript.
-
-Databases: MySQL, PostgreSQL, MongoDB, Redis.
-
-Data Science: Supervised Learning (Regression analysis), Discriminative models (Random Forest, Decision Trees, Logistic Regression, SVM, kNN), Generative models (Naive Bayes/QDA), Unsupervised Learning (Bayesian Optimization, k-means clustering), Dimensionality Reduction techniques (PCA, LDA), Data Visualization (ggplot2, Matplotlib, Seaborn). 
-
-Frameworks & Other Tools: Linux/Unix, Git, Django, Flask, Docker, HAProxy, Nginx, Puppet, Datadog, Gunicorn, Node.js, React, jQuery, TypeScript, Sass.
-```
