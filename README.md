@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leroy Buliro</h1>
+<h1 align="center">Leroy Buliro</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
 - 🌱 I’m currently learning **Java Android development**
