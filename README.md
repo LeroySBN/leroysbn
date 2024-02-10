@@ -1,8 +1,4 @@
 # `$ WHOAMI`
-
-Hi 👋 I'm Leroy Buliro
-======================
-
 - A data cruncher and full-stack developer from Kenya
 - Rogue actuary turned technophile
 - Avid Linux user
