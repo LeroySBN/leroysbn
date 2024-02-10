@@ -1,5 +1,5 @@
-<h1 align="center">Leroy Buliro</h1>
-<h3 align="center">A passionate full-stack developer from Kenya</h3>
+<div align="center"><h1><a href="https://leroybuliro.me">Leroy Buliro</a></h1></div>
+<div align="center"><p><i>Tech, Risk, Data</i></h1></div>
 
 - 🌱 I’m currently learning **Java Android development**
 
