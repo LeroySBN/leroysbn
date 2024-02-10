@@ -1,13 +1,9 @@
 <div align="center"><h1><a href="https://leroybuliro.me">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div>
 
-- 🌱 I’m currently learning **Java Android development**
+I am a **Full Stack Software Engineer** and **Data Scientist**, currently learning **Java Android development**.
 
-- 📝 I regularly write articles on [https://medium.com/@leroybuliro](https://medium.com/@leroybuliro)
-
-- 💬 Ask me about **Python, Linux, R**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lsbn](https://www.linkedin.com/in/lsbn)
+Current endeavours revolve around working with clients to co-create solutions to major real-world challenges by using best practice technologies, tools, and methodologies to translate system requirements into the design and development of customised systems within an agile framework.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
