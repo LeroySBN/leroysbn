@@ -1,8 +1,6 @@
 <div align="center"><h1><a href="https://leroybuliro.me">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div>
 
-I am a **Full Stack Software Engineer** learning **Java Android development**. 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
