@@ -1,5 +1,5 @@
-<div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
-<!-- <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
+<!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
+<div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
