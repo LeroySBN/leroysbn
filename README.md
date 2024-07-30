@@ -1,5 +1,6 @@
 <!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
+### Hi there, I'm [Leroy](https://www.linkedin.com/in/lsbn/) 👋
 
 ### Skills and Expertise
 **Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, Go, JavaScript, TypeScript, HTML, CSS, React, Kotlin
