@@ -3,12 +3,13 @@
 ### Hi there, I'm [Leroy](https://www.linkedin.com/in/lsbn/) 👋
 
 ### Skills and Expertise
-**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, Go, JavaScript, TypeScript, HTML, CSS, React, Kotlin
+**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
 
 **Machine Learning and Deep Learning:** 
 
-- _Supervised Learning:_ Linear Regression, Logistic Regression, SVMs, KNNs, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification), Natural Language Processing (Sentiment Analysis)
-- _Unsupervised Learning:_ Bayesian Optimization, Clustering, k-means, Dimensionality Reduction (LDA), PCA
+- _Supervised Learning:_ Linear Regression, Logistic Regression, SVMs, KNNs, QDA, LDA (Linear Discriminant Analysis), Applications in Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification), Applications in Natural Language Processing (Sentiment Analysis)
+- _Unsupervised Learning:_ Clustering, k-means, Dimensionality Reduction (PCA)
+
 
 **Data Visualization:** ggplot, Matplotlib, Seaborn, Pandas
 
