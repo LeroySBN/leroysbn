@@ -3,7 +3,7 @@
 ### Hi there, I'm [Leroy](https://www.linkedin.com/in/lsbn/) 👋
 
 ### Skills and Expertise
-**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
+**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-learn), C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
 
 **Machine Learning and Deep Learning:** 
 
@@ -18,6 +18,7 @@
 **Cloud:** Azure, AWS (EC2, S3)
 
 **Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, Vagrant, Bootstrap, WordPress, Puppet
+
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
