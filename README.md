@@ -2,7 +2,7 @@
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
 
 ### Skills and Expertise
-**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, Go, JavaScript, TypeScript, HTML, CSS, React
+**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-Learn), C/C++, SQL, Go, JavaScript, TypeScript, HTML, CSS, React, Kotlin
 
 **Machine Learning and Deep Learning:** 
 
@@ -17,7 +17,6 @@
 
 **Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, Vagrant, Bootstrap, WordPress, Puppet
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
