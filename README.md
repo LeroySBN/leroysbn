@@ -1,24 +1,22 @@
 <!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
-### Hi there, I'm [Leroy](https://www.linkedin.com/in/lsbn/) 👋
+### Hi there, I'm Leroy 👋
 
 ### Skills and Expertise
-**Programming Languages:** R (tidyverse, dplyr), Python (numpy, scikit-learn), C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
+**Programming Languages:** R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
+
+**Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, Vagrant, Bootstrap, WordPress, Puppet 
 
 **Machine Learning and Deep Learning:** 
 
 - _Supervised Learning:_ Linear Regression, Logistic Regression, SVMs, KNNs, QDA, LDA (Linear Discriminant Analysis), Applications in Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification), Applications in Natural Language Processing (Sentiment Analysis)
 - _Unsupervised Learning:_ Clustering, k-means, Dimensionality Reduction (PCA)
 
-
 **Data Visualization:** ggplot, Matplotlib, Seaborn, Pandas
 
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
 **Cloud:** Azure, AWS (EC2, S3)
-
-**Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, Vagrant, Bootstrap, WordPress, Puppet
-
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
