@@ -1,6 +1,10 @@
 <!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
-### Hi there, I'm Leroy 👋
+### Hi there, I'm Leroy
+- 👋🏽 Hi, I’m Leroy Buliro
+- 👀 I’m interested in system design 
+- 🌱 I’m currently studying on android development and application security 
+- 💞️ I write blog posts on coding and infosec
 
 ### Skills and Expertise
 **Programming Languages:** R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
