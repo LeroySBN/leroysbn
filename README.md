@@ -7,7 +7,7 @@ I am a certified software engineer currently studying on android development and
 ### Skills and Expertise
 **Programming Languages:** R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
 
-**Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, Vagrant, Bootstrap, WordPress, Puppet 
+**Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, WordPress, Puppet 
 
 **Machine Learning and Deep Learning:** 
 
