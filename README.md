@@ -1,8 +1,8 @@
 <!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
-### Hi there, I'm Leroy
+## Hi there, I'm Leroy
 
-I am a certified software engineer currently studying on android development and application security. During my spare time, I focus on system design and contribute blog posts on coding and information security.
+A software engineer currently studying on android development and application security. During my spare time, I focus on system design and contribute blog posts on coding and information security.
 
 ### Skills and Expertise
 **Programming Languages:** R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
