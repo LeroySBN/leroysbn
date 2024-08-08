@@ -4,7 +4,6 @@
 
 A software engineer currently studying on android development and application security. During my spare time, I focus on system design and contribute blog posts on coding and information security.
 
-### Skills and Expertise
 **Programming Languages:** Visual Basic (where it all begun), R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
 
 **Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, WordPress, Puppet 
