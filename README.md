@@ -133,4 +133,4 @@ A software engineer currently specializing in application security. During my sp
 
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
-**Cloud:** Azure, AWS (EC2, S3)
+<!-- **Cloud:** -->
