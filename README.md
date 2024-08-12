@@ -124,7 +124,7 @@ A software engineer currently specializing in application security. During my sp
 
 **Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, WordPress, Puppet 
 
-**Machine Learning and Deep Learning:** 
+**Machine Learning<!-- and Deep Learning-->:** 
 
 - _Supervised Learning:_ Linear Regression, Logistic Regression, SVMs, KNNs, QDA, LDA (Linear Discriminant Analysis), Applications in Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification), Applications in Natural Language Processing (Sentiment Analysis)
 - _Unsupervised Learning:_ Clustering, k-means, Dimensionality Reduction (PCA)
