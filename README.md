@@ -2,7 +2,7 @@
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
 ## Hi there, I'm Leroy
 
-A software engineer currently specializing in application security. During my spare time, I focus on system design and contribute blog posts on coding and information security.
+Software engineer upskilling in application security. In my spare time, I focus on system design and write blog posts on coding and information security.
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
