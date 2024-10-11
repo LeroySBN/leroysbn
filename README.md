@@ -120,11 +120,11 @@ A software engineer currently specializing in application security. During my sp
     <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a> -->
 </p>
 
-**Programming Languages:** Visual Basic (where it all begun), R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
+<!--**Programming Languages:** Visual Basic (where it all begun), R, Python, C/C++, SQL, JavaScript, TypeScript, HTML, CSS, React, Go, Kotlin
 
 **Frameworks & Other:** Git, Anaconda, Django, Flask, Fiber, Node.js, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Kubernetes, WordPress, Puppet 
 
-**Machine Learning<!-- and Deep Learning-->:** 
+**Machine Learning:** 
 - _Supervised Learning:_ Linear Regression, Logistic Regression, SVMs, KNNs, QDA, LDA (Linear Discriminant Analysis), Applications in Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification), Applications in Natural Language Processing (Sentiment Analysis)
 - _Unsupervised Learning:_ Clustering, k-means, Dimensionality Reduction (PCA)
 
@@ -132,4 +132,4 @@ A software engineer currently specializing in application security. During my sp
 
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
-<!-- **Cloud:** -->
+**Cloud:** -->
