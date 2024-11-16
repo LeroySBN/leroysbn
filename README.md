@@ -1,8 +1,8 @@
 <!-- <div align="center"><h1><a href="#">Leroy Buliro</a></h1></div>
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
-## Hi there, I'm Leroy
+## Hello World! 👋
 
-Software engineer upskilling in application security. In my spare time, I focus on system design and write blog posts on coding and information security.
+I have a variety of projects here, many of which focus on system design and malware analysis.
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
