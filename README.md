@@ -2,12 +2,12 @@
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
 ## Hello World! 👋
 
-Hi, I'm Leroy Nazoi, a Software Engineer from Nairobi, Kenya. I have a variety of projects here, many of which focus on system design.
+I'm an indie app developer from Nairobi, Kenya. I have a variety of projects here, many of which focus on system design.
 
 ### My experience
-I have five years of experience with Python, two years with C, and three years with TypeScript and React (and JavaScript/ES6).
+I have five years of experience with Python, two years with C, and three years with some JavaScript Frameworks.
 
-I am currently learning Kotlin and Go.
+I am currently learning Compose Multiplatform.
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
