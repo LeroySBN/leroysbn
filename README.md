@@ -2,10 +2,7 @@
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
 ## Hello World! 👋
 
-I'm an indie app developer from Nairobi, Kenya. I have a variety of projects here, many of which focus on system design.
-
-### My experience
-I have five years of experience with Python, two years with C, and three years with some JavaScript Frameworks.
+I'm an indie app developer from Nairobi, Kenya. I have a variety of projects here, many of which focus on system design but my main interest lies in ML engineering.
 
 I am currently learning Compose Multiplatform.
 
