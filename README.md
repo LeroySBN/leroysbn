@@ -4,6 +4,8 @@
 
 I am an indie app developer and cybersecurity researcher based in Kenya. I have a variety of projects here, many of which focus on system design.
 
+Found something interesting in my repositories? Have an idea to collaborate on? Let's connect! Book a chat with me [here](https://zcal.co/i/Unt9FaJD).
+
 <!-- <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
