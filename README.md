@@ -2,7 +2,7 @@
 <div align="center"><p><i>Tech, Risk, Data</i></h1></div>
 <!--## Hello World! 👋-->
 
-I am an indie app developer and cybersecurity researcher based in Kenya. I have a variety of projects here, many of which focus on system design.
+I am an indie app developer based in Kenya. I have a variety of projects here, many of which focus on system design.
 
 Found something interesting in my repositories? Have an idea to collaborate on? Let's connect! Book a chat with me [here](https://zcal.co/i/Unt9FaJD).
 
