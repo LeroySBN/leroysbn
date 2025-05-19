@@ -1,6 +1,6 @@
-<div align="center"><h1><a href="https://leroybuliro.co.ke">Leroy Buliro</a></h1></div>
-<div align="center"><p><i>Tech, Risk, Data</i></h1></div>
-<!--## Hello World! 👋-->
+<!-- <div align="center"><h1><a href="https://leroybuliro.co.ke">Leroy Buliro</a></h1></div>
+<div align="center"><p><i>Tech, Risk, Data</i></h1></div> -->
+## Hello World! 👋
 
 I am an indie app developer based in Kenya. I have a variety of projects here, many of which focus on system design.
 
